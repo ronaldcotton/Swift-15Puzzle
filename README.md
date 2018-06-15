@@ -20,3 +20,5 @@ Built and simulated on a *MacOS Sierra 10.12.6*, *XCode 9.2 (9C40b)* compiler an
 All code licenced MIT with exception to Apple comments and boilerplate code.
 
 Image owned by proper copyright holder and is used for demonstration purposes only.
+
+School assignment copyrighted by Instructor.
