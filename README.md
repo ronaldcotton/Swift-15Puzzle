@@ -12,9 +12,9 @@ More information is in the **/docs** [pdf.](docs/15puzzle.pdf)
 Built and simulated on a *MacOS Sierra 10.12.6*, *XCode 9.2 (9C40b)* compiler and tested on *Simulator v10.0*.
 ### Extra Features beyond Assignment Guidelines
  - App icons for all sizes *(except for app store).*
- - replaced Images for Buttons.
- - Shuffle button to solve
- - Alternate between images and numbers, so user can alternate
+ - Added Images for the 15 puzzle.
+ - Shuffle button alternated to Solve button.
+ - Allows alternating between images and numbers for puzzle solve.
  - Solved puzzle presents animation of the whole screen doing a barrel roll.
 ### Note
 All code licenced MIT with exception to Apple comments and boilerplate code.
